@@ -32,4 +32,6 @@ end
 
 #params now looks like this: 
 
-
+# {"post": {"title": "My Title",
+#          "description": "My description"}
+# }
