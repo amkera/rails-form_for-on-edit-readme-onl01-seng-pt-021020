@@ -29,3 +29,7 @@ class PostsController < ApplicationController
 	  redirect_to post_path(@post)
 	end
 end
+
+#params now looks like this: 
+
+
